@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daniweb protobuf DataStore</string>
+    <string name="checkbox1">CheckBox 1</string>
+    <string name="checkbox2">CheckBox 2</string>
+    <string name="checkbox3">CheckBox 3</string>
+    <string name="checkbox4">CheckBox 4</string>
+</resources>

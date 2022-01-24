@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.example.daniwebprotobufdatastore";
+option java_multiple_files = true;
+
+message CheckboxStates {
+  bool check_box_1 = 1;
+  bool check_box_2 = 2;
+  bool check_box_3 = 3;
+  bool check_box_4 = 4;
+}
